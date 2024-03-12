@@ -1,4 +1,26 @@
 
+## Environment Variables
+
+The environment variables can be found and modified in the `.env` file.
+
+```bash
+
+
+# URL of the Mongo DB
+CONNECTION_STRING = "YOUR_CONNECTION STRING"
+
+# JWT
+ACCESS_TOKEN_SECRET = # YOUR_TOKEN_SECRET
+
+# TWILIO
+
+ACCOUNT_SID = "YOUR_ACCOUNT_SID"
+AUTH_TOKEN = "YOUR_AUTH_TOKEN"
+MY_TWILIO_PHONE_NUMBER = "YOUR_TWILIO_PHONE_NUMBER"
+
+```
+
+
 ### API Endpoints
 
 List of available routes:
