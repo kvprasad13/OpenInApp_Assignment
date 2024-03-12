@@ -18,6 +18,6 @@ List of available routes:
 
 **Sub Task routes**:\
 `POST api/subTasks/` - Create a Sub Task\
-`GET api/subTasks/`  - Get all Sub Tasks By TaskId
+`GET api/subTasks/`  - Get all Sub Tasks By TaskId\
 `PUT api/subTasks/:subTaskId` - Update Sub Task \
 `DELETE api/subTasks/:subTaskId` - Delete Sub Task (Soft Deletion) 
